@@ -15,4 +15,6 @@ The URLs end with a *__number__* (for instance: 1350) so, if you have any errors
 - requests
 - BeautifulSoup4
 
+You can install python dependencies using pip install -r requirements.txt
+
 ## Enjoy!!! :grinning:
