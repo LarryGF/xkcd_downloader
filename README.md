@@ -8,7 +8,7 @@ You just have to run it by typing: **python download_xkcd.py**. It automatically
 
 ## Tips and tricks
 
-The URLs are in the form **https://xkcd.com/'number'** so, if you have any errors during download and the script doesn't skip them automatically, you can manually change the value in **last** to **https://xkcd.com/('number - 1')** and it will skip that file and resume the download from the next one.
+The URLs end with a *__number__* (for instance: 1350) so, if you have any errors during download and the script doesn't skip them automatically, you can manually change the value in **last** to *__number - 1__* (for instance: 1349) and it will skip that file and resume the download from the next one.
 
 ## Python requirements
 
